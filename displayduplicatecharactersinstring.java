@@ -1,5 +1,5 @@
 public class displayduplicatecharactersinstring{
-
+//duplicate characters display
     public static void main(String[] args) {
         String original = "Banana";
     String str = original.toLowerCase();
